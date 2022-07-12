@@ -1,3 +1,4 @@
 # BasicTitanic
-Simple Repo for Kaggle's Titanic Project
-Project Members: Rishi, Max, Chase
+Simple Repo for Kaggle's ML Titanic Project
+
+Members: Rishi, Max, Chase
